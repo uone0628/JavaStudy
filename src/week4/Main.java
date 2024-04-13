@@ -12,7 +12,6 @@ public class Main {
         boolean c = true;
         boolean c_1;
         //문자열
-        String dd;
         String ddd = "hahaha";
 
         int temp_a = 0;
