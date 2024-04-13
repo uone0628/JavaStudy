@@ -64,9 +64,9 @@ public class Main {
 
         int while_i = 0;
         int while_j = 0;
-        while(while_i < 9){
+        while(while_i < 10){
             System.out.println(while_i++ + "단 시작..");
-            while(while_j < 9){
+            while(while_j < 10){
                 while_j = while_j + 1;
                 System.out.println(while_i + "X" + while_j + "=" + (while_i*while_j));
             }
